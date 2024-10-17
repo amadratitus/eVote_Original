@@ -1,4 +1,4 @@
-# Electronic Voting System by ElvoSys
+# Electronic Voting System
 
 The Electronic Voting System by ElvoSys is a secure and efficient way to conduct electronic voting for various purposes, such as elections, surveys, and polls. This system ensures integrity, confidentiality, and transparency in the voting process. It is designed to be easy to use, scalable, and adaptable to different voting scenarios.
 ## Features
@@ -22,11 +22,11 @@ The Electronic Voting System by ElvoSys is a secure and efficient way to conduct
 
 1. Clone the repository:
 ```
-git clone https://github.com/elvosys/electronic-voting-system.git
+git clone https://github.com/amadratitus/eVote.git
 ```
 2. Navigate to the project directory:
 ```
-cd electronic-voting-system
+cd eVote
 ```
 3. Install the required dependencies using pip:
 ```
@@ -58,6 +58,4 @@ Contributions are welcome! If you find any bugs or want to suggest improvements,
 The Electronic Voting System by ElvoSys is released under the MIT License.
 
 ## Contact
-For any inquiries, please contact the ElvoSys team at contact@elvosys.com.
-
-<b>Note:</b> This is a simplified example of a readme file for an electronic voting system. The actual implementation may require additional components, such as encryption, advanced security measures, and more detailed instructions for setup and usage.
+For any inquiries, please contact the repo owner
